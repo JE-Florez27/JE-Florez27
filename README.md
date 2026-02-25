@@ -1,8 +1,9 @@
-<div align="center">
-## Hola, soy Juan Florez👋
-## Software Engeneering Student - Visca Barca 💙♥️
-## Atletico Bucaramanga lover 💛💚
-</div>
+<h2 align="center">👋 Hola, soy Juan Florez</h2>
+<h3 align="center">💻 Software Engineering Student - Visca Barca 💙❤️</h3>
+<h3 align="center">🟡🟢 Atletico Bucaramanga lover</h3>
+<p align="center">
+  <img src="https://www.vanguardia.com/deportes/futbol/2025/06/15/rugio-el-campeon-lo-que-dijeron-los-medios-del-triunfo-inolvidable-del-atletico-bucaramanga/" width="200">
+</p>
 <!--
 **JE-Florez27/JE-Florez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
