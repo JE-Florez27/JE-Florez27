@@ -1,5 +1,7 @@
-## Hola, soy Juan Florez👋
-
+### Hola, soy Juan Florez👋
+----------------------------
+## Software Engeneering Student - Visca Barca 💙♥️
+## Atletico Bucaramanga lover 💛💚
 <!--
 **JE-Florez27/JE-Florez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
