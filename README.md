@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineering Student - Visca Barca 💙❤️</h3>
 <h3 align="center">🟡🟢 Atletico Bucaramanga lover</h3>
 <p align="center">
-  <img src="https://www.vanguardia.com/resizer/v2/fotos-ineditas-del-dia-en-que-atletico-bucaramanga-logro-su-primera-estrella-foto-jaime-moreno-vanguardia-OVSFTKLJI5BR7HQF4JEM2N7TZM.JPG?auth=6faa0d18ab498693a2d121c7973cb8434090069a35489b3d8135d1fff017bb3a&smart=true&width=1200&height=800&quality=70" width="200">
+  <img src="https://www.vanguardia.com/resizer/v2/fotos-ineditas-del-dia-en-que-atletico-bucaramanga-logro-su-primera-estrella-foto-jaime-moreno-vanguardia-OVSFTKLJI5BR7HQF4JEM2N7TZM.JPG?auth=6faa0d18ab498693a2d121c7973cb8434090069a35489b3d8135d1fff017bb3a&smart=true&width=1200&height=800&quality=70" width="600">
 </p>
 <!--
 **JE-Florez27/JE-Florez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
